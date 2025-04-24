@@ -1,7 +1,7 @@
 import React from 'react'
 import Title from "../components/Title.jsx";
 import Form from "../components/Form.jsx";
-import {Facebook, Instagram, Linkedin, Mail, Phone} from "lucide-react";
+import {Facebook, Github, Instagram, Linkedin, Mail, Phone} from "lucide-react";
 
 const Contact = () => {
     return (
@@ -36,18 +36,23 @@ const Contact = () => {
                         <div className="flex flex-wrap items-center justify-start gap-4">
                             <a
                                 className='hover:-translate-y-2 hover:text-blue-600 transition-all duration-300 ease-in-out'
-                                href="#">
-                                <Facebook className='size-6'/>
-                            </a>
-                            <a
-                                className='hover:-translate-y-2 hover:text-blue-600 transition-all duration-300 ease-in-out'
-                                href="#">
+                                href="https://www.instagram.com/muglesh_babu/">
                                 <Instagram className='size-6'/>
                             </a>
                             <a
                                 className='hover:-translate-y-2 hover:text-blue-600 transition-all duration-300 ease-in-out'
-                                href="#">
+                                href="https://www.linkedin.com/in/muglesh-babu-m/">
                                 <Linkedin className='size-6'/>
+                            </a>
+                            <a
+                                className='hover:-translate-y-2 hover:text-blue-600 transition-all duration-300 ease-in-out'
+                                href="https://github.com/muglesh">
+                                <Github className='size-6'/>
+                            </a>
+                            <a
+                                className='hover:-translate-y-2 hover:text-blue-600 transition-all duration-300 ease-in-out'
+                                href="https://www.facebook.com/muglesh.babu">
+                                <Facebook className='size-6'/>
                             </a>
                         </div>
                     </div>

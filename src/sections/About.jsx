@@ -13,11 +13,14 @@ const About = () => {
                     <div>
                         <Title title='about' highlight='me' isCenter={false} content='get to know me better'/>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque doloremque excepturi officia
-                            quis sit. Ad dignissimos distinctio iusto omnis sequi vel. Aliquid, cumque cupiditate
-                            delectus deserunt ea exercitationem fuga incidunt magni minima molestias nam necessitatibus
-                            odio optio placeat quo quod repudiandae sequi soluta ullam vitae. Aspernatur cupiditate
-                            illum sit tempora.
+                            I'm a Computer Science Engineering graduate with a specialization in Artificial Intelligence
+                            from Chandigarh University, passionate about developing smart, user-friendly web
+                            applications. I enjoy working with technologies like React, Tailwind CSS,
+                            Firebase, and Redux Toolkit to build responsive and dynamic interfaces. My interests span
+                            both frontend and backend development, with a growing focus on integrating AI-powered
+                            features into everyday tools. I’m always
+                            eager to learn new technologies, take on challenging problems, and collaborate on impactful
+                            tech solutions.
                         </p>
                     </div>
                 </div>

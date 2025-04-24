@@ -24,7 +24,7 @@ const Hero = () => {
                             </p>
                             <a className='px-6 py-3 inline-block capitalize font-semibold
                             bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-md'
-                               href="#projects">View my work</a>
+                               href="#project">View my work</a>
                         </div>
                     </div>
                 </div>
